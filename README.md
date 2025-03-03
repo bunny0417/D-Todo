@@ -15,6 +15,5 @@ And then start the server (default: http://localhost:8000)
     python manage.py runserver
 
 
-Now you can browse the [API](http://localhost:8000/api/)
 
 

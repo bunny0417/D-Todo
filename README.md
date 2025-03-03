@@ -1,5 +1,10 @@
 
 
+![Home](https://github.com/user-attachments/assets/8a155330-bef8-44c8-a8f2-4082d0ea18ae)
+
+
+
+
 ## Explore
 Try it out by installing the requirements. (Works only with python >= 3.8, due to Django 4)
 
